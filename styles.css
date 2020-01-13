@@ -45,3 +45,11 @@ a {
   padding: 10px 20px;
   text-decoration: none;
 }
+
+/* menu */
+
+.header .menu {
+  clear: both;
+  max-height: 0;
+  transition: max-height 0.2s ease-out;
+}
