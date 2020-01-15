@@ -148,8 +148,13 @@ a {
 /* Footer */
 
 .footer {
-  display: block;
+  display: flex;
   justify-content: end;
   background-color: #202020;
+}
+
+.footer .cop {
+  display: flex;
+  text-align: center;
   color: #fff;
 }
