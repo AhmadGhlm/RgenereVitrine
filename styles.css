@@ -141,6 +141,10 @@ a {
 
 /* Main */
 
+.main {
+  display: flex;
+  justify-content: center;
+}
 /* Footer */
 
 .footer {
