@@ -150,12 +150,10 @@ a {
 
 .footer {
   display: flex;
-  justify-content: end;
+  justify-content: center;
   background-color: #202020;
 }
 
 .footer .cop {
-  display: flex;
-  text-align: center;
   color: #fff;
 }
