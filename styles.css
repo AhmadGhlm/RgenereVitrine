@@ -11,7 +11,7 @@ a {
 /* Header */
 
 .header {
-  background-image: url(images/woodtexture.jpg);
+  background-color: #202020;
   box-shadow: 1px 1px 4px 0 rgba(0, 0, 0, 0.1);
   position: fixed;
   width: 100%;
@@ -23,7 +23,7 @@ a {
   padding: 0;
   list-style: none;
   overflow: hidden;
-  background-image: url(images/woodtexture.jpg);
+  background-color: #202020;
 }
 
 .header li a {
