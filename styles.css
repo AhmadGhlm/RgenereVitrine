@@ -146,6 +146,12 @@ a {
   display: flex;
   justify-content: center;
 }
+
+.text {
+  display: flex;
+  flex-direction: initial;
+}
+
 /* Footer */
 
 .footer {
