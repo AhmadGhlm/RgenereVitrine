@@ -143,13 +143,16 @@ a {
 /* Main */
 
 .main {
+  background: image(images/imac.jpg);
   display: flex;
   justify-content: center;
 }
 
 .text {
+  margin-top: 20rem;
   display: flex;
-  flex-direction: initial;
+  justify-items: center;
+  color: #202020;
 }
 
 /* Footer */
