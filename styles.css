@@ -143,7 +143,6 @@ a {
 /* Main */
 
 .main {
-  background: image(images/imac.jpg);
   display: flex;
   justify-content: center;
 }
